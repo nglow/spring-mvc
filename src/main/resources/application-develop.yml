@@ -1,0 +1,4 @@
+# Set log level of com.example.springmvc package
+logging:
+  level:
+    com.example.springmvc: debug
